@@ -1,0 +1,119 @@
+{
+  "nodes": [
+    {
+      "id": "1",
+      "data": {
+        "label": "Helio Gracie",
+        "nom_prenom": "Helio Gracie",
+        "nationalite_nom": "Brésilienne",
+        "nationalite_icon": "https://flagsapi.com/BR/flat/64.png", 
+        "image": "https://jijibfight.com/wp-content/uploads/2025/01/helio_gracie_pere_jjb.jpg",
+        "bio": "Hélio Gracie (1913-2009) était un grand maître brésilien de jiu-jitsu...",
+        "grade_nom": "Ceinture Rouge",
+        "reseaux_sociaux": {
+          "wikipedia": "https://fr.wikipedia.org/wiki/H%C3%A9lio_Gracie"
+        },
+        "date_mise_a_jour": "2024-11-04",
+        "source": "Livre 'Gracie Jiu-Jitsu' par Helio Gracie"
+      },
+      "style": { "border": "2px solid #c0392b", "padding": "10px" }
+    },
+    {
+      "id": "2",
+      "data": {
+        "label": "Rickson Gracie",
+        "nom_prenom": "Rickson Gracie",
+        "nationalite_nom": "Brésilienne",
+        "nationalite_icon": "https://flagsapi.com/BR/flat/64.png",
+        "image": "https://s2-ge.glbimg.com/ho-4RLF06MKjvyz3D9RBNauJp5E=/0x0:1030x1104/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2023/B/J/U2VyHiR8qAgM70JYQiXA/img-9206.jpg",
+        "bio": "Fils d'Helio Gracie, Rickson est une légende du JJB...",
+        "grade_nom": "Ceinture Rouge",
+        "reseaux_sociaux": {
+          "instagram": "https://www.instagram.com/ricksonrgracie",
+          "website": "https://ricksongracie.com/"
+        },
+        "date_mise_a_jour": "2024-11-05",
+        "source": "Documentaire 'Choke'"
+      }
+    },
+    {
+      "id": "3",
+      "data": {
+        "label": "Royler Gracie",
+        "nom_prenom": "Royler Gracie",
+        "nationalite_nom": "Brésilien",
+        "nationalite_icon": "https://flagsapi.com/BR/flat/64.png",
+        "image": "data:image/jpeg;base64,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",
+        "bio": "Un autre fils d'Helio, 4 fois champion du monde.",
+        "grade_nom": "Ceinture Rouge/Noire",
+        "reseaux_sociaux": {
+          "instagram": "https://www.instagram.com/roylergracie"
+        },
+        "date_mise_a_jour": "2024-11-05",
+        "source": "BJJ Heroes"
+      }
+    },
+    {
+      "id": "4",
+      "data": {
+        "label": "Jean Dupont",
+        "nom_prenom": "Jean Dupont",
+        "nationalite_nom": "Française",
+        "nationalite_icon": "https://flagsapi.com/FR/flat/64.png",
+        "image": "https://via.placeholder.com/150/EEEEEE/000000/?text=Jean",
+        "bio": "Élève fictif pour démontrer le lignage multiple.",
+        "grade_nom": "Ceinture Marron",
+        "reseaux_sociaux": {},
+        "date_mise_a_jour": "2024-11-05",
+        "source": "Donnée interne"
+      }
+    }
+  ],
+  "edges": [
+ 
+    {
+      "id": "e1-2",
+      "source": "1",
+      "target": "2",
+      "label": "Professeur / Eleve",
+      "animated": true,
+      "data": {
+        "contexte_remise_ceinture": "Lignage direct père-fils. Helio a formé Rickson depuis son enfance.",
+        "source": "Biographie 'Gracie'"
+      }
+    },
+    {
+      "id": "e1-3",
+      "source": "1",
+      "target": "3",
+      "label": "Professeur / Eleve",
+      "animated": true,
+      "data": {
+        "contexte_remise_ceinture": "Lignage direct père-fils. Formé par Helio.",
+        "source": "BJJ Heroes"
+      }
+    },
+    {
+      "id": "e2-4",
+      "source": "2",
+      "target": "4",
+      "label": "Professeur / Eleve",
+      "animated": true,
+      "data": {
+        "contexte_remise_ceinture": "Jean a reçu sa ceinture violette de Rickson lors d'un séminaire à Rio en 2018.",
+        "source": "Interview 'Jiu-Jitsu Mag'"
+      }
+    },
+    {
+      "id": "e3-4",
+      "source": "3",
+      "target": "4",
+      "label": "Professeur / Eleve",
+      "animated": true,
+      "data": {
+        "contexte_remise_ceinture": "Jean a reçu sa ceinture marron de Royler à l'académie de San Diego en 2022.",
+        "source": "Post Instagram de Jean Dupont"
+      }
+    }
+  ]
+}
